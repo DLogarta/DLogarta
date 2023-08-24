@@ -1,9 +1,6 @@
 ### Hi there, I'm Daniel Logarta! 👋
 
-- 🔭 I’m currently studying on Cavite State University - Bacoor Campus.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on Java Programs.
-- 🤔 I’m looking for help with Front End Programming.
-- 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: [Twitter - @LogartaDaniel](https://twitter.com/LogartaDaniel) / Gmail - danielogarta09@gmail.com / Yahoo - danielogarta09@yahoo.com
-- ⚡ Fun fact: I dont like coffee.
+- Bachelor of Science in Computer Science Gruadate in Cavite State University - Bacoor Campus.
+- Java Desktop App Developer
+- Web App Developer
+- Creator of Barangay Molino II Website / molino2.online
